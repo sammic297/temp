@@ -14,13 +14,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mee's Logistics</title>
+    <title>temp</title>
     <meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="../img/favicon.ico">
     <link rel="stylesheet" type="text/css" href="../css/regi.css">
-
     <link rel="stylesheet" type="text/css" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
-
     <link rel="stylesheet" type="text/css" href="lg.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript" src="../js/script.js"></script>
@@ -50,12 +48,12 @@
               document.getElementById("mySidenav").style.width = "0";
             }
         </script>
-        <div class="main_wrapper" style="background: #c8d2db2e; max-height: -webkit-fill-available; height: -webkit-fill-available; height: -moz-fill-available; -o-fill-available; ms-fill-available;">
+        <div class="main_wrapper">
           <div class="sub_header clearfix">
         		<div class="container">
     			<div class="left">
     				<span style="font-size:30px;cursor:pointer;display: inline-block;" onclick="openNav()" class="padd1">&#9776; </span>
-            <h1 class="font_120" style="display: inline-block;">MEE'S LOGISTICS</h1>
+            <h1 class="font_120" style="display: inline-block;">temp</h1>
     			</div>
           <div class="right mobile_hide" style="padding-top:23px;">
             <a class="block_disp weight_bold color_red" href="logout.php" rel="nofollow" data-method="delete">Logout →</a>
@@ -93,7 +91,7 @@
         <script type="text/javascript">
             (function () {
                 var options = {
-                    whatsapp: "+2348031583084", // WhatsApp number
+                    whatsapp: "+234803158****", // WhatsApp number
                     call_to_action: "", // Call to action
                     position: "right", // Position may be 'right' or 'left'
                 };
